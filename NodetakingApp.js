@@ -1,12 +1,4 @@
-// let input=document.querySelector('input');
-// let add=document.querySelector('button');
-// let ul=document.querySelector('ul');
 
-// add.addEventListener('click',()=>{
-//     let li =document.createElement('li');
-//     li.innerHTML=input.value;
-//     ul.appendChild(li);
-// })
 
 const inputE=document.getElementById('input');
 const buttonE=document.getElementById('button');
